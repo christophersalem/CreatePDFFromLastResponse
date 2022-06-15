@@ -1,0 +1,12 @@
+ ☑ Yes  𝤿 No
+ \u2611 Yes  \ud836\udd3f No
+
+ 𝤿 Yes   ☑ No
+ \ud836\udd3f Yes   \u2611 No
+
+
+
+Arial
+18 empty checkbox (color: "dark gray 4" hex: #434343)
+21 checked checkbox
+12 for the text
